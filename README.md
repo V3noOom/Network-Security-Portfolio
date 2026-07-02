@@ -7,7 +7,7 @@ Hands-on network security coursework from my Master's program, written up as cas
 
 ## Projects
 
-### [01 — Network Reconnaissance, Traffic Analysis & Exploitation](./01-network-recon-and-monitoring)
+### [01 — Network Reconnaissance, Traffic Analysis & Exploitation](./Network Reconncaissance, Traffic Analysis & Exploitation)
 A two-part sequence covering the full loop from host discovery to exploitation: Nmap/Zenmap scanning, live traffic capture with Wireshark/tcpdump/Snort, ARP-spoofing MITM with credential interception, exploitation of a vulnerable web service via Metasploit, and vulnerability scanning with GVM/OpenVAS.
 **Tools:** Nmap, Zenmap, Wireshark, tcpdump, Snort, Ettercap, dsniff, Metasploit, Meterpreter, GVM/OpenVAS
 
