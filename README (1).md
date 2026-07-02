@@ -1,7 +1,7 @@
 # Network Reconnaissance, Traffic Analysis & Exploitation in a Segmented Lab Environment
 
 **Course:** Network Security (IB433C), Stockholm University — Spring 2026
-**Collaborators:** Completed with Radi Shafiq and Rakibul Islam Rahat
+
 **Environment:** Isolated university lab network (10.11.202.0/23), Kali Linux attack host, Windows 10 and Linux targets, Metasploitable2
 
 ## Overview
